@@ -8,3 +8,5 @@ public class AddTwoNumbers {
       System.out.println("Sum of these numbers: "+sum);
    }
 }
+
+Output: Changes done by Ravi on Github site
